@@ -1,0 +1,25 @@
+{
+  "name": "@duhongwei/hotpack-proxy",
+  "type":"module",
+  "version": "1.0.0",
+  "description": "proxy plugin for hotpack a wrap for [koa-proxy](https://github.com/edorivai/koa-proxy)",
+  "main": "index.js",
+  "dependencies": {
+    "koa-proxy": "^1.0.0-alpha.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duhongwei/hotpack-proxy.git"
+  },
+  "keywords": [],
+  "author": "duhongwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duhongwei/hotpack-proxy/issues"
+  },
+  "homepage": "https://github.com/duhongwei/hotpack-proxy#readme"
+}
