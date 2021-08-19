@@ -1,13 +1,15 @@
-# hotpack-proxy
+# Hotpack-proxy
+
 proxy plugin for hotpack
+
 a wrap for [koa-proxy](https://github.com/edorivai/koa-proxy) 
 
 
-  ## useage
+  ## Useage
   ```bash
   npm install --save-dev @duhongwei/hotpack-proxy 
   ```
-  ### config set
+  
   ```js
   import proxy from  '@duhongwei/hotpack-proxy'
   export defaut{
